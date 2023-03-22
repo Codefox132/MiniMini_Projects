@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="uulib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/UULIB/uulib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/UULIB/uulib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
